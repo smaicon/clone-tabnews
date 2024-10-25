@@ -7,8 +7,7 @@ function Home2() {
 }
 
 function Home3() {
-  return
+  return;
 }
-
 
 export default Home2;
